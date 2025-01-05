@@ -1,2 +1,2 @@
 # WEBAPP
-this file is just overview of other projects.
+this file is just an overview of other projects.
